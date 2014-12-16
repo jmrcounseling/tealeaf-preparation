@@ -1,0 +1,1 @@
+puts "3...\n2...\n1...\nHAPPY NEW YEAR!"

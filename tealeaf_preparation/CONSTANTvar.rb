@@ -1,0 +1,1 @@
+MY_CONSTANT = 'I am available throughout your app.'

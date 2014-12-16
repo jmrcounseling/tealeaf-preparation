@@ -1,0 +1,1 @@
+@var = 'I am available thoughout the current instance of this class'
